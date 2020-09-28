@@ -32,6 +32,7 @@
     "@aws-cdk/aws-sqs": "1.51.0",
     "@aws-cdk/core": "1.51.0",
     "@types/aws-lambda": "^8.10.59",
+    "aws-sdk": "^2.761.0",
     "uuid": "^8.3.0"
   }
 }
